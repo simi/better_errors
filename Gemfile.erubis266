@@ -1,0 +1,5 @@
+source :rubygems
+
+gem 'erubis', '2.6.6'
+
+gemspec
