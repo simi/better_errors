@@ -1,5 +1,5 @@
 source :rubygems
 
-gem 'erubis', '=> 2.7.0'
+gem 'erubis', '>= 2.7.0'
 
 gemspec
